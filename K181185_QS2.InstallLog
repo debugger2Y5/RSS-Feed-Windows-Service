@@ -1,0 +1,76 @@
+﻿Installing assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Uninstalling assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Uninstalling assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Uninstalling assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.InstallLog
+   assemblypath = C:\Users\Lenovo\Desktop\IPT2\K181185_QS2\K181185_QS2.exe
